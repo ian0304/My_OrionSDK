@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 #ipython
-.ipynb
+*.ipynb
 
 #vscode
 .vscode/
